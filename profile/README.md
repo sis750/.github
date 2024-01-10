@@ -30,6 +30,7 @@ This is an advanced graduate course. The material is challenging, and the worklo
 ## Course material and software
 I will post handouts, data, R scripts, and links to reading materials on our course github site. While there is no textbook to purchase, I will draw regularly on the following:
 - Jenny Bryan's [Stat 545 collection](https://stat545.com/)
+- Hadley Wickham et al.'s [R for Data Science](https://r4ds.hadley.nz/)  
 - Claus Wilke's foundational text on visualization, [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - Winston Chang's [Cookbook for R](http://www.cookbook-r.com/)
 - A basic introduction to R, my own [Survival Guide](https://austin-hart-pols.github.io/SurvivalGuide/)
