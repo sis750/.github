@@ -9,9 +9,9 @@
 &nbsp;&nbsp;&nbsp;Github: [https://github.com/austin-hart-pols](https://github.com/austin-hart-pols)  
 
 
-
 ## Overview
 This course introduces the art and practice of data analysis. It focuses on the preparation of data (data wrangling or munging), professional presentation of data and analysis, and the process of producing scalable, replicable work (statistical and literate programming). More than just learning the requisite code, I emphasize the professional outputs associated with a career in data analysis. This semester is a chance to get your hands dirty in the world of analysis and explore the new and challenging puzzles you face every day in this profession.
+
 
 ## Learning outcomes and objectives
 Students who complete this course will be proficient junior analysts. They will be able to:
@@ -20,10 +20,12 @@ Students who complete this course will be proficient junior analysts. They will 
 - present data-driven research to a professional audience
 - write clear, efficient, reproducible code in the R programming language
 
+
 ## Expectations and workload
 This is an advanced graduate course. The material is challenging, and the workload is intense. However, my expectations for the course and of your performance are appropriate to your standing as professionals and aspiring professionals in a top graduate program. 
 
 > Success in this course will require 10-15 hours of work outside of class each week. Please do not enroll in this course if you cannot commit to these hours.
+
 
 ## Course material and software
 I will post handouts, data, R scripts, and links to reading materials on our course github site. While there is no textbook to purchase, I will draw regularly on the following:
@@ -36,6 +38,7 @@ You need regular and reliable access to R and RStudio IDE, and I urge you to bri
 
 Becoming proficient with these programs is a challenging, though necessary, part of this course. When you run into trouble (i) Review course materials, (ii) search online (seriously, Google knows the answer), (iii) ask your classmates, and (iv) ASK ME.
 
+
 ## Assignments and grading
 Grades for the course will be assigned based on performance in the following areas:
 - **Problem sets and Deliverables (80%)** 
@@ -46,6 +49,7 @@ At the end of the semester, you will create a portfolio that includes an edited 
 Professionalism is a critical part of success in the data analytics profession. So it will be an integral part of our training in this course. Aside from what one can do on a laptop, a good analyst is someone who engage with peers constructively and respectfully, who asks questions when expectations are unclear, and who creates inclusive environments for co-workers and clients. I will evaluate participation and professionalism throughout the semester in terms of your engagement with peers, with myself, and with the material during class-related activities. Do you come to class prepared? Do you ask and answer questions? Are you contributing to a constructive and inclusive environment?
 
 Please take note of the assignment due dates and plan accordingly. I will not accept late work outside of truly unusual and unavoidable circumstances.
+
 
 ## Schedule Overview
 We will proceed according to the outline below. Note that details on required materials for each week are available in the repositories on our [github page](https://github.com/sis750). 
@@ -73,17 +77,19 @@ We will proceed according to the outline below. Note that details on required ma
 ## Making the most of our time
 I strongly encourage you to drop in during office hours or set up meetings on a semi-regular basis. I love working with students in this course, and I will do my best to help you think through challenges both big and small. I'm happy to discuss problem sets, the field of data analytics, your intellectual and professional goals, and whatever else is on your mind. I regularly work with students (current and former) to write letters of recommendation, organize independent study, supervise theses, hire TA/RAs,  etc. The sooner you come in to consult, the better.
 
+## Academic Integrity, Group Work, and AI
+Assignments in this course are individual exercises. The written work you submit must be substantially your own work. You are welcome to make use of appropriate research tools and materials to help learn how to answer a question or otherwise fulfill the assignment. Two in particular require special attention:
+
+- *Collaborating with classmates:* I encourage you to study with your classmates and to talk through challenges and questions in written work. You may not co-write, edit, exchange, or otherwise share your answers or code. Posting your answers in a group chat or copying code posted by a classmate, for example, constitutes a violation of the Academic Integrity Code.
+- *Using generative AI (ChatGPT, Bard, etc):* Use of AI is strongly discouraged. These tools may be able to answer some/all of questions on our assignments, and they can be incredibly useful for folks with strong foundational skills. For those just starting out, however, I believe that reliance on this technology inhibits the development of those core skills. If you choose to use AI tools in this course, you must submit an appendix with your work including verbatim text of your prompt and the output produced by the tool. 
+
+In each case, you must start and finish your written work independently. Regardless of what resources you rely on in your work, you bear sole responsibility for the integrity of what you submit. 
+
+American University’s standards of academic conduct are set forth in the Academic Integrity Code. By registering for classes, you have acknowledged your awareness of the Academic Integrity Code, and you are obliged to become familiar with your rights and responsibilities as defined by the Code. Violations of the Academic Integrity Code will not be treated lightly, and disciplinary actions will be taken should such violations occur. Please see me if you have any questions about the academic violations described in the Code in general or as they relate to particular requirements for this course.
+
 ## Academic integrity
 Standards of academic conduct are set forth in the University's [Academic Integrity Code](https://www.american.edu/policies/students/academic-integrity-code.cfm). By registering for classes, you have acknowledged your awareness of the Academic Integrity Code, and you are obliged to become familiar with your rights and responsibilities as defined by the Code. Violations of the Academic Integrity Code will not be treated lightly, and disciplinary actions will be taken should such violations occur. Please see me if you have any questions about the academic violations described in the Code in general or as they relate to particular requirements for this course.
 
+
 ## Background knowledge
 A background in introductory statistics—-equivalent to SIS-600-—is necessary for this course. So I will assume familiarity with descriptive statistics (e.g., means, standard deviations), hypothesis testing (through linear regression), and basic statistical computing (e.g., R or Stata).
-
-## Snow days, COVID, and random apocalypses
-If we're unable to meet for our regular class time due to a University closure (e.g., snow day) or something on my end (e.g., I get COVID), we will hold class virtually on Zoom. If you are sick (e.g., you get COVID), do not come to our cramped lab. Join virtually instead. Let me know that you'll be virtual and contact a classmate to dial you in for class (I can set you up with someone if you're not sure who to ask). 
-
-## Support services
-I will make every effort to enable full participation in this course by all students. Students needing ongoing special accommodations should contact me as early as possible (within the first two weeks of the semester, or as soon as those needs arise) to discuss how they can be met within the structure of the course. Every effort will be made to maintain the confidentiality of personal information. You may also wish to contact [Disability Support Services](http://www.american.edu/ocl/dss/) (Mary Graydon Center, Room 206) or the [Counseling Center](http://www.american.edu/ocl/counseling/) (Mary Graydon Center, Room 214) if you have questions about campus policies and services or wish to register for specific accommodations or assistance with physical, medical, or psychological disabilities.
-
-## Requests for special accommodations
-Students anticipating any difficulty in completing assigned work on time should consult with the professor well in advance of course deadlines. Any student seeking exceptions to course policies or requesting special accommodations due to medical or familial issues must first consult with the Office of the Dean of Students (Butler Pavilion, Room 408). Should the Office of the Dean of Students determine that accommodations are appropriate, a letter will be issued from the [Office of the Dean of Students](http://www.american.edu/ocl/dos/) to the student's professors. Students must then follow up with their professors either in person or via email as soon as circumstances permit in order to discuss new arrangements for required work and deadlines. Simply providing a letter from the Office of the Dean of Students does not constitute a waiver for course requirements or deadlines, nor does such a letter excuse work missed prior to the provision of documentation unless the Office of the Dean of Students specifically indicates that the accommodations are retroactive. Late penalties and other course policies will apply to any revised assignment arrangements or deadlines.
