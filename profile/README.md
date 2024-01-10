@@ -52,7 +52,7 @@ Please take note of the assignment due dates and plan accordingly. I will not ac
 
 
 ## Schedule Overview
-We will proceed according to the outline below. Note that details on required materials for each week are available in the repositories on our [github page](https://github.com/sis750). 
+We will proceed according to the outline below. Note that details on required materials for each week are available in the repositories on our [github page](https://github.com/sis750). You can also view the `.pdf` version of the [2024 syllabus](https://sis750.github.io/Syllabus/syllabus-750-spring24.pdf) online.
 
 | Date    | Topics                                        | Due in class   |
 | :-----  | :-------------------------------------------- | :------------- |
