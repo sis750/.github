@@ -85,9 +85,6 @@ Assignments in this course are individual exercises. The written work you submit
 
 In each case, you must start and finish your written work independently. Regardless of what resources you rely on in your work, you bear sole responsibility for the integrity of what you submit. 
 
-American University’s standards of academic conduct are set forth in the Academic Integrity Code. By registering for classes, you have acknowledged your awareness of the Academic Integrity Code, and you are obliged to become familiar with your rights and responsibilities as defined by the Code. Violations of the Academic Integrity Code will not be treated lightly, and disciplinary actions will be taken should such violations occur. Please see me if you have any questions about the academic violations described in the Code in general or as they relate to particular requirements for this course.
-
-## Academic integrity
 Standards of academic conduct are set forth in the University's [Academic Integrity Code](https://www.american.edu/policies/students/academic-integrity-code.cfm). By registering for classes, you have acknowledged your awareness of the Academic Integrity Code, and you are obliged to become familiar with your rights and responsibilities as defined by the Code. Violations of the Academic Integrity Code will not be treated lightly, and disciplinary actions will be taken should such violations occur. Please see me if you have any questions about the academic violations described in the Code in general or as they relate to particular requirements for this course.
 
 
