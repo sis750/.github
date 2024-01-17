@@ -59,14 +59,14 @@ We will proceed according to the outline below. Note that details on required ma
 | :-----  | :-------------------------------------------- | :------------- |
 | Pre     | [Getting started](https://github.com/sis750/00-getting-started)  |  |
 | Jan 17  | [Intro and Monty Hall](https://github.com/sis750/01-monty-hall)   |  |
-| Jan 24  | [R programming crash course](https://github.com/sis750/02-programming)                    | [PS 1](https://sis750.github.io/01-monty-hall/ps1.pdf)           |
+| Jan 24  | [R programming crash course](https://github.com/sis750/02-programming)    | [PS 1](https://sis750.github.io/01-monty-hall/ps1.pdf)     |
 | Jan 31  | Wrangling 1: frames, tibbles, lists           | PS 2           |
-| Feb 7   | Wrangling 2: reshape, merge, append           | Draft resume   |
+| Feb 7   | Transform: reshape, merge, append           | Draft resume   |
 | Feb 14  | Wrangling 3: all about variables              | PS 3           |
 | Feb 21  | Wrangling round-up                            |                |
 | Feb 28  | Visualization 1: grammar of graphics          | Codebook       |
 | Mar 6   | Visualization 2: layers, facets, patchwork    | PS 4           |
-| Mar 20  | Markdown 2: slide decks                       | PS 5           |
+| Mar 20  | Markdown for slide decks                       | PS 5           |
 | Mar 27  | Careers in analytics                          | Presentation 1 |
 | Apr 3   | Analysis 1: linear associations               |                |
 | Apr 10  | Analysis 2: advanced topics                   | PS 6           |
