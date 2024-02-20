@@ -63,7 +63,7 @@ We will proceed according to the outline below. Note that details on required ma
 | Jan 31  | [Wrangling: frames, tibbles, lists](https://github.com/sis750/03-wrangling1)   | [PS 2](https://github.com/sis750/02-programming/blob/main/ps2.pdf)           |
 | Feb 7   | [Transform: reshape, merge, append](https://github.com/sis750/04-transform)           | Draft resume   |
 | Feb 14  | [Wrangling: all about variables](https://github.com/sis750/05-clean-recode)              | [PS 3](https://github.com/sis750/04-transform/tree/main/PS3)           |
-| Feb 21  | Wrangling round-up                            |                |
+| Feb 21  | [Wrangling round-up](https://github.com/sis750/06-codebooks)                            |                |
 | Feb 28  | Visualization 1: grammar of graphics          | [Codebook](https://github.com/sis750/05-clean-recode/blob/main/codebook-assignment.pdf)       |
 | Mar 6   | Visualization 2: layers, facets, patchwork    | PS 4           |
 | Mar 20  | Markdown for slide decks                       | PS 5           |
