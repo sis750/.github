@@ -66,7 +66,7 @@ We will proceed according to the outline below. Note that details on required ma
 | Feb 21  | [Wrangling round-up](https://github.com/sis750/06-codebooks)                            |                |
 | Feb 28  | [Visualization 1: grammar of graphics](https://github.com/sis750/07-viz1)          | [Codebook](https://github.com/sis750/05-clean-recode/blob/main/codebook-assignment.pdf)       |
 | Mar 6   | [Visualization 2: layers, facets, patchwork](https://github.com/sis750/08-viz2)    | [PS 4](https://github.com/sis750/07-viz1/tree/main/PS4)           |
-| Mar 20  | Markdown for slide decks                       | PS 5           |
+| Mar 20  | Markdown for slide decks                       | [PS 5](https://github.com/sis750/08-viz2/tree/main/PS5)           |
 | Mar 27  | Careers in analytics                          | Presentation 1 |
 | Apr 3   | Analysis 1: linear associations               |                |
 | Apr 10  | Analysis 2: advanced topics                   | PS 6           |
