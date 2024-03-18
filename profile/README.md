@@ -67,13 +67,12 @@ We will proceed according to the outline below. Note that details on required ma
 | Feb 28  | [Visualization 1: grammar of graphics](https://github.com/sis750/07-viz1)          | [Codebook](https://github.com/sis750/05-clean-recode/blob/main/codebook-assignment.pdf)       |
 | Mar 6   | [Visualization 2: layers, facets, patchwork](https://github.com/sis750/08-viz2)    | [PS 4](https://github.com/sis750/07-viz1/tree/main/PS4)           |
 | Mar 20  | Markdown for slide decks                       | [PS 5](https://github.com/sis750/08-viz2/tree/main/PS5)           |
-| Mar 27  | Careers in analytics                          | Presentation 1 |
-| Apr 3   | Analysis 1: linear associations               |                |
-| Apr 10  | Analysis 2: advanced topics                   | PS 6           |
-| Apr 17  | Analysis round-up                             | Poster         |
+| Mar 27  | Analysis 1: linear associations                          | Presentation 1 |
+| Apr 3   | Analysis 2: advanced topics              |                |
+| Apr 10  | Analysis round-up                   | PS 6           |
+| Apr 17  | Careers in analytics                             | Poster         |
 | Apr 24  | Scaling up                                    |                |
-| May 1   | Submit Analyst Portfolio                      | Portfolio      |
-  
+| May 1   | Submit Analyst Portfolio                      | Portfolio      |  
 
 ## Making the most of our time
 I strongly encourage you to drop in during office hours or set up meetings on a semi-regular basis. I love working with students in this course, and I will do my best to help you think through challenges both big and small. I'm happy to discuss problem sets, the field of data analytics, your intellectual and professional goals, and whatever else is on your mind. I regularly work with students (current and former) to write letters of recommendation, organize independent study, supervise theses, hire TA/RAs,  etc. The sooner you come in to consult, the better.
