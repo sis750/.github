@@ -71,7 +71,7 @@ We will proceed according to the outline below. Note that details on required ma
 | Apr 3   | Analysis 2 ([Repo](https://github.com/sis750/10-11-analysis)) ([Slides](https://github.com/austin-hart-pols/AnalysisOverview))              |                |
 | Apr 10  | Careers in analytics [and posters](https://github.com/sis750/12-posters)                   | [PS 6](https://github.com/sis750/10-11-analysis/tree/main/PS6)           |
 | Apr 17  | [Analysis round-up](https://github.com/sis750/13-roundup)                             | [Poster (Apr 21)](https://github.com/sis750/12-posters/tree/main/Poster%20Assessment)         |
-| Apr 24  | Scaling up                                    |              |
+| Apr 24  | [Scaling up](https://github.com/sis750/14-functions)                                    |              |
 | May 1   | Submit Analyst Portfolio                      | [Portfolio](https://github.com/sis750/13-roundup/blob/main/portfolio.md)      |  
 
 ## Making the most of our time
