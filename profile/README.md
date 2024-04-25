@@ -5,7 +5,7 @@
 ### Professor Austin Hart (ahart@american.edu)  
 &nbsp;&nbsp;&nbsp;Office: SIS 345  
 &nbsp;&nbsp;&nbsp;Office hours:	Mon/Fri 2:00-4:00pm  
-&nbsp;&nbsp;&nbsp;Website: [https://austin-hart-pols.github.io/](https://austin-hart-pols.github.io/)  
+&nbsp;&nbsp;&nbsp;Website: [https://austin-hart.netlify.app](https://austin-hart.netlify.app)  
 &nbsp;&nbsp;&nbsp;Github: [https://github.com/austin-hart-pols](https://github.com/austin-hart-pols)  
 
 
